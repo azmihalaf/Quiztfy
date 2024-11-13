@@ -1,0 +1,4 @@
+.rounded-custom {
+  border-top-left-radius: 10px; /* Sesuaikan nilai radius sesuai kebutuhan */
+  border-bottom-right-radius: 10px;
+}
