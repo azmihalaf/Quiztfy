@@ -1,5 +1,3 @@
-import "bootstrap/dist/css/bootstrap.min.css";
-
 export default function AboutContent() {
   return (
     <div className="container my-5">
@@ -34,7 +32,7 @@ export default function AboutContent() {
           <img
             src="assets/about/list.png"
             alt="Deskripsi Gambar"
-            className="img-fluid ms-5 sm-ms-0"
+            className="img-fluid ms-md-5 ms-0"
           />
         </div>
 
