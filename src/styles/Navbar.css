@@ -1,0 +1,33 @@
+.brand-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1;
+}
+
+.brand-tech {
+  font-size: 14px; /* Ukuran font untuk "Tech" */
+  font-weight: bold;
+}
+
+.brand-quiztfy {
+  font-size: 18px; /* Ukuran font untuk "Quiztfy" */
+  font-weight: bold;
+}
+
+/* .nav-link {
+  transition: color 0.3s;
+}
+
+.hover-underline {
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #007bff;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover .hover-underline {
+  width: 100%;
+} */
