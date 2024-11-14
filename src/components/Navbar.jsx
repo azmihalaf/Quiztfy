@@ -1,4 +1,4 @@
-import "../styles/Navbar.css";
+// import "../styles/Navbar.css";
 import { Link } from "react-router-dom";
 
 export default function Navbar() {
@@ -9,15 +9,11 @@ export default function Navbar() {
           {/* Logo dan Nama Brand */}
           <a className="navbar-brand d-flex align-items-center" href="/">
             <img
-              src="assets/Logo.png"
+              src="assets/LOGO FULL.png"
               alt="Logo"
               height="60"
               className="d-inline-block align-top me-2"
             />
-            <div className="brand-text">
-              <span className="brand-tech">Tech</span>
-              <span className="brand-quiztfy">Quiztfy</span>
-            </div>
           </a>
 
           {/* Tombol Toggle untuk Navbar di perangkat kecil */}

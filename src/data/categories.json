@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Artificial Intelligence",
+    "img": "assets/category/IKON AI.png",
+    "description": "Eksplorasi dunia kecerdasan buatan, uji wawasan AI Anda, dan ketahui langkah-langkah berkarir di bidang teknologi pintar."
+  },
+  {
+    "name": "Data Analyst",
+    "img": "assets/category/IKON DA.png",
+    "description": "Dalami keterampilan analisis data, uji kemampuan Anda, dan ikuti roadmap menuju karir sebagai Data Analyst."
+  },
+  {
+    "name": "Machine Learning",
+    "img": "assets/category/IKON ML.png",
+    "description": "Mulailah memahami dasar-dasar machine learning, ikuti quiz untuk evaluasi, dan temukan jalur menuju profesi di AI dan Data Science."
+  },
+  {
+    "name": "Web Development",
+    "img": "assets/category/IKON WEBDEV.png",
+    "description": "Pelajari dasar pembuatan website, ikuti quiz untuk menguji pemahaman, dan temukan jalur karir sebagai Web Developer."
+  },
+  {
+    "name": "Mobile Development",
+    "img": "assets/category/MOBDEV.png",
+    "description": "Pelajari pembuatan aplikasi mobile, uji kemampuan Anda melalui kuis, dan rencanakan langkah menuju menjadi Mobile Developer."
+  },
+  {
+    "name": "Full Stack Development",
+    "img": "assets/category/IKON FS.png",
+    "description": "Pelajari pembuatan aplikasi dari ujung ke ujung, uji pemahaman Anda, dan lihat langkah menjadi Full Stack Developer."
+  },
+  {
+    "name": "Internet Of Things",
+    "img": "assets/category/IKON IOT.png",
+    "description": "Pelajari bagaimana perangkat cerdas terhubung, asah pengetahuan IoT melalui quiz, dan pahami potensi karir di IoT."
+  },
+  {
+    "name": "UI/UX Design",
+    "img": "assets/category/IKON UI UX.png",
+    "description": "Kenali prinsip desain antarmuka yang menarik, uji pengetahuan desain Anda, dan lihat peluang karir di bidang UI/UX."
+  }
+]
