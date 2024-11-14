@@ -53,7 +53,7 @@ export default function Navbar() {
             </div>
 
             <div className="offcanvas-body">
-              <ul className="navbar-nav mx-auto fw-bold text-center">
+              <ul className="navbar-nav mx-auto fw-bold text-center nav-list">
                 <li className="nav-item">
                   <Link
                     to={"/"}

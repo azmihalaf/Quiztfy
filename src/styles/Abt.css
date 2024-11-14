@@ -2,3 +2,19 @@
   border-top-left-radius: 10px; /* Sesuaikan nilai radius sesuai kebutuhan */
   border-bottom-right-radius: 10px;
 }
+.content_container{
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.content-misi-container h4{
+  padding: 7px 18px;
+  font-weight: 300;
+  font-size: 1.3rem;
+  text-align: center;
+  background-color: #F2A361;
+  color: #fff;
+  border-end-end-radius: 25px;
+  border-start-start-radius: 25px;
+}

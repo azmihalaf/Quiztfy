@@ -1,3 +1,5 @@
+import "../../styles/Abt.css";
+
 export default function AboutContent() {
   return (
     <div className="container my-5">
@@ -54,14 +56,16 @@ export default function AboutContent() {
       </div>
 
       {/* Visi & Misi */}
-      <div className="mt-4 bg-warning py-5">
-        <h1 className="text-center">Visi dan Misi</h1>
+      <div className="mt-4 py-5">
+        <h1 className="text-center mb-md-5">Visi dan Misi</h1>
 
-        <div className="row justify-content-center">
+        <div className="row justify-content-center content-misi-container">
           {/* visi 1 */}
           <div className="col-md-4 text-center">
-            <h4>1. Memberikan Pendidikan yang Interaktif</h4>
-            <p>
+            <h4>
+              1. Memberikan Pendidikan yang Interaktif
+            </h4>
+            <p className="">
               Menyediakan kuis dan materi yang relevan agar siswa bisa belajar
               dengan cara yang lebih menyenangkan.
             </p>
@@ -77,7 +81,7 @@ export default function AboutContent() {
           </div>
           {/* visi 3 */}
 
-          <div className="col-md-5 text-center">
+          <div className="col-md-5 mt-md-5 text-center">
             <h4>3. Memajukan Kompetensi Digital Anak Bangsa</h4>
             <p>
               Membantu siswa membangun keterampilan digital dasar hingga tingkat
