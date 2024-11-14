@@ -29,7 +29,10 @@ export default function Content() {
               </div>
               <div className="card-body">
                 <h5 className="card-title fw-semibold mb-3">
-                  <Link to="/" className="text-decoration-none text-dark">
+                  <Link
+                    to="/category"
+                    className="text-decoration-none text-dark"
+                  >
                     {category.name}
                   </Link>
                 </h5>
