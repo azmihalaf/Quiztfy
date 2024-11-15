@@ -5,7 +5,8 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import AboutUs from "./pages/AboutUs.jsx";
 import Help from "./pages/Help.jsx";
-import Category from "./pages/Category.jsx";
+import Category from "./pages/Course.jsx";
+import CommingSoon from "./pages/CommingSoon.jsx";
 
 const router = createBrowserRouter([
   {
@@ -26,7 +27,11 @@ const router = createBrowserRouter([
   },
   {
     path: "/login",
-    element: "comming so0n",
+    element: <CommingSoon />,
+  },
+  {
+    path: "/comming",
+    element: <CommingSoon />,
   },
 ]);
 
