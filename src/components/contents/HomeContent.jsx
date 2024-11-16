@@ -1,9 +1,10 @@
 import { Link } from "react-router-dom";
 import categories from "../../data/categories.json";
+import "../../../src/App.css";
 
 export default function Content() {
   return (
-    <div className="mt-2 mt-md-5 min-vh-100">
+    <div className="pt-2 pt-md-5 min-vh-100 full-page-bg">
       {/* Header Section */}
       <div className="text-center mb-5">
         <h1 className="mb-3">Personalize Your Quiz Experience</h1>
@@ -29,7 +30,7 @@ export default function Content() {
               </div>
               <div className="card-body">
                 <h5 className="card-title fw-semibold mb-3">
-                  <Link to="/" className="text-decoration-none text-dark">
+                  <Link to="/course" className="text-decoration-none text-dark">
                     {category.name}
                   </Link>
                 </h5>
